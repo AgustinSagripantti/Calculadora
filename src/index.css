@@ -13,6 +13,7 @@
 body{
   background-color: var(--fondo);
   color: var(--texto);
+  overflow: hidden;
   transition: 1s;
 }
 

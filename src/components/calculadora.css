@@ -28,3 +28,10 @@ span.display{
   font-size: 4rem;
   height: 4rem;
 }
+
+@media(max-width: 500px) {
+  main{
+    height: 70%;
+    aspect-ratio: 8/16;
+  }
+}
