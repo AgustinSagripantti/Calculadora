@@ -27,6 +27,18 @@ Esta es una aplicación de calculadora simple construida con React que realiza o
    npm run dev
 2. Abre tu navegador y ve a http://localhost:5173.
 
+## Estructura del Proyecto
+    calculadora/
+    ├── public/
+    ├── src/
+    │   └── componentes/
+    │   └── index.css
+    │   └── index.jsx
+    ├── .gitignore
+    ├── index.html
+    ├── package.json
+    └── README.md
+
 ## Contribucion
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
 
