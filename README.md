@@ -5,7 +5,7 @@ Esta es una aplicación de calculadora simple construida con React que realiza o
 - **Operaciones básicas**: suma, resta, multiplicación, división, porcentaje, etc.
 - **Modo oscuro y claro**: opción para cambiar entre un tema oscuro y un tema claro.
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 -HTML
 -CSS
 -REACT
@@ -21,13 +21,13 @@ Esta es una aplicación de calculadora simple construida con React que realiza o
    ```bash
    npm install
 
-##Uso
+## Uso
 1. Inicia la aplicacion:
    ```bash
    npm run dev
 2. Abre tu navegador y ve a http://localhost:5173.
 
-#Estructura del proyecto:
+## Estructura del proyecto:
 calculadora/
 ├── public/
 ├── src/
@@ -39,8 +39,8 @@ calculadora/
 ├── README.md
 └── index.html
 
-##Contribucion
+## Contribucion
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
 
-##Contacto
+## Contacto
 Agustin Sagripantti - asagripantti@gmail.com
