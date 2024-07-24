@@ -1,0 +1,21 @@
+button{
+    border: none;
+    border-radius: 1rem;
+    background-color: var(--terciario);
+    font-size: 2rem;
+    color: var(--texto);
+    transition: 1s;
+}
+
+button:active {
+    transform: scale(1.02); /* Escala el tamaño del botón a 1.82 veces su tamaño original */
+}
+
+button.gris{
+    background-color: var(--secundario);
+}
+
+button.operacion{
+    background-color: var(--primario);
+    color: #fff;
+}
