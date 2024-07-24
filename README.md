@@ -1,8 +1,46 @@
-# React + Vite
+# Calculadora 
+Esta es una aplicación de calculadora simple construida con React que realiza operaciones básicas y tiene la funcionalidad de cambiar entre modo oscuro y modo claro.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Características
+- **Operaciones básicas**: suma, resta, multiplicación, división, porcentaje, etc.
+- **Modo oscuro y claro**: opción para cambiar entre un tema oscuro y un tema claro.
 
-Currently, two official plugins are available:
+##Tecnologías utilizadas
+-HTML
+-CSS
+-REACT
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/AgustinSagripantti/calculadora-.git
+2. Navega al directorio del proyecto:
+   ```bash
+   cd calculadora-react
+3. Instala las dependencias:
+   ```bash
+   npm install
+
+##Uso
+1. Inicia la aplicacion:
+   ```bash
+   npm run dev
+2. Abre tu navegador y ve a http://localhost:5173.
+
+#Estructura del proyecto:
+calculadora/
+├── public/
+├── src/
+│   ├── components/
+│   ├── index.css
+│   ├── index.jsx
+├── .gitignore
+├── package.json
+├── README.md
+└── index.html
+
+##Contribucion
+Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
+
+##Contacto
+Agustin Sagripantti - asagripantti@gmail.com
