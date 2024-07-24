@@ -31,13 +31,17 @@ Esta es una aplicación de calculadora simple construida con React que realiza o
 calculadora/
 ├── public/
 ├── src/
+│   ├── assets/
+│   │   └── (tus imágenes aquí)
 │   ├── components/
-│   ├── index.css
-│   ├── index.jsx
+│   ├── App.js
+│   ├── index.js
+│   └── ...
 ├── .gitignore
 ├── package.json
 ├── README.md
-└── index.html
+└── ...
+
 
 ## Contribucion
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
