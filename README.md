@@ -1,46 +1,18 @@
 # Calculadora 
-Esta es una aplicación de calculadora simple construida con React que realiza operaciones básicas y tiene la funcionalidad de cambiar entre modo oscuro y modo claro.
 
-## Características
-- **Operaciones básicas**: suma, resta, multiplicación, división, porcentaje, etc.
-- **Modo oscuro y claro**: opción para cambiar entre un tema oscuro y un tema claro.
+## Descripción
+Una aplicación de calculadora simple construida con React que realiza todas las operaciones básicas y tiene la funcionalidad de cambiar entre modo oscuro y modo claro.
 
 ## Tecnologías utilizadas
 -HTML
 -CSS
 -REACT
 
-## Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/AgustinSagripantti/calculadora-.git
-2. Navega al directorio del proyecto:
-   ```bash
-   cd calculadora-react
-3. Instala las dependencias:
-   ```bash
-   npm install
-
-## Uso
-1. Inicia la aplicacion:
-   ```bash
-   npm run dev
-2. Abre tu navegador y ve a http://localhost:5173.
-
-## Estructura del Proyecto
-    calculadora/
-    ├── public/
-    ├── src/
-    │   └── componentes/
-    │   └── index.css
-    │   └── index.jsx
-    ├── .gitignore
-    ├── index.html
-    ├── package.json
-    └── README.md
+## Conclusión
+Éste proyecto me sirvió como una buena práctica par el manejo de lógica en JavaScript y su libreria REACT. Además de haber elaborado un CSS muy organizado y bien estructurado para el sistema de cambio de color.  
 
 ## Contribucion
-Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
+Todas las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
 
 ## Contacto
 Agustin Sagripantti - asagripantti@gmail.com
